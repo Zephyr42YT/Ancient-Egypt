@@ -111,12 +111,6 @@ No setup required.
 
 ---
 
-## 📜 License
-
-Free to use and modify for personal or educational projects.
-
----
-
 ## 🏆 Final Words
 
 > *“The pyramid remembers all who enter… but only a few escape.”*
